@@ -25,7 +25,7 @@ This project focuses on solving practical business problems rather than just cre
  Top-Selling Products with Ranking & Margin %
  Sales & Profit Mix by Category
  Regional Revenue Contribution Analysis
- Profitability gauge
+ Profitability gauge 
  Business Insights & Strategic Recommendations
 
 ---
