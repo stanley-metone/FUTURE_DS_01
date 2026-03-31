@@ -1,4 +1,4 @@
- 📊 FUTURE_DS_01 – Superstore Sales Performance Dashboard
+ 📊 FUTURE_DS_01 – Metrix Sales Performance Dashboard
 
 📌 Project Overview
 
